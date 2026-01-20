@@ -1,0 +1,105 @@
+Brazilian Portuguese:
+Eu (Kiyuhua) fiz conotação para cobrir os fonemas do português brasileiro, português europeu, espanhol latino-americano, e espanhol europeu. A minha conotação foi inspirada no ARPABET e X-SAMPA. Essa transcrição foi baseada em dígrafos do português, semelhança com o AFI/IPA, X-SAMPA, ARPABET, aproximação de pronúncia, e simplificação de alguns dígrafos presentes na conotação (como o [zh] foi simplificado para "Z" em [dZ]), e nJokis para fonemas regionais do espanhol.
+A reclist é livre pra uso. Modificações na transcrição são totalmente permitidas. Eu permito redistribuição de versões modificadas, porém exijo créditos.
+
+Ao usar a transcrição, você deve deixar um espaço entre consoante e vogal.
+Exemplo 1: azul (português brasileiro): /a z uw/
+Exemplo 2: azul (espanhol latino-americano): /a s u l/
+
+Latin American Spanish:
+Yo (Kiyuhua) hice una connotación para cubrir los fonemas del portugués brasileño, portugués europeo, español latinoamericano y español europeo. Mi connotación se inspiró en ARPABET y X-SAMPA. Esta connotación se basa en dígrafos portugueses, similares a AFI/IPA, X-SAMPA, ARPABET, pronunciación aproximada y simplificación de algunos dígrafos presentes en mi connotación (como [zh], que se simplifica a "Z" en [dZ]), y nJokis para fonemas regionales del español.
+La ​​lista es de libre uso. Se permiten modificaciones en la transcripción. Permito la redistribución de versiones modificadas, pero exijo que se me dé crédito.
+
+Al usar la transcripción, debe dejar espacio entre la consonante y la vocal.
+Ejemplo 1: azul (portugués brasileño): /a z uw/
+Ejemplo 2: azul (español latinoamericano): /a s u l/
+
+[vowels]
+
+a = a
+ɐ = x (Portuguese)
+ə = X (European Portuguese)
+e = e
+ɛ = eh (Portuguese)
+i = i
+ɪ = ie (Portuguese)
+ɨ = 1 (European Portuguese)
+o = o
+ɔ = 6 (Portuguese)
+u = u
+ʊ = uu (Portuguese)
+ɯ = M (Portuguese)
+
+[nasal vowels]
+(Portuguese)
+
+ã = xm
+ẽ = em
+ĩ = im
+õ = om
+ũ = um
+ão = @
+ãe = &
+õe = Q
+
+[semivowels]
+
+j = y
+w = w
+i̯ = Y
+u̯ = U
+
+[nasal semivowels]
+(Portuguese)
+
+j̃ = ym
+w̃ = wm
+
+[extra]
+
+ul = uw (Portuguese)
+ʔ = ?
+breath = HH
+
+[consonants]
+
+b = b
+β = bh (Spanish)
+ʋ = vw
+v = v (Portuguese)
+d = d
+d̪ = d2
+dʒ = dZ
+dʑ = dZ2
+ð = zx (Spanish and European Portuguese)
+f = f
+ɡ = g
+ɣ = gz (European Portuguese and Spanish)
+k = k
+l = l
+ɫ = lw (European Portuguese)
+ʎ = lh
+ɭ = ll (Portuguese and European Spanish)
+m = m
+n = n
+ɲ = nh
+ŋ = ng
+p = p
+ɾ = r
+ɺ = rl
+r = rr (Spanish)
+ʁ = h (Portuguese)
+h = hh
+ɹ = J (Brazilian Portuguese)
+ɻ = J2
+ʃ = ch
+ʒ = zh (Portuguese)
+θ = sx (European Spanish and European Portuguese)
+s = s
+z = z
+tʃ = tC
+t = t
+t̪ = t2
+ʝ = jj (Spanish)
+x = j (Spanish)
+tɬ = tL (Mexican Spanish)
