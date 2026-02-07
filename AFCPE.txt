@@ -20,12 +20,16 @@ a = a
 ɐ = x (Portuguese)
 ə = X (European Portuguese)
 e = e
+e̞ = ea
+ø = eo (non-native Italian)
 ɛ = eh (Portuguese)
 i = i
 ɪ = ie (Portuguese)
 ɨ = 1 (European Portuguese)
+y = io (non-native Italian)
 o = o
-ɔ = 6 (Portuguese)
+o̞ = oa
+ɔ = 6 *OR* c (Portuguese)
 u = u
 ʊ = uu (Portuguese)
 ɯ = M (Portuguese)
@@ -33,7 +37,7 @@ u = u
 [nasal vowels]
 (Portuguese)
 
-ã = xm
+ã = xm *OR* am
 ẽ = em
 ĩ = im
 õ = om
@@ -57,9 +61,18 @@ w̃ = wm
 
 [extra]
 
-ul = uw (Portuguese)
-ʔ = ?
+ː = : (long)
+ˈ (primary stress) = '
+ˌ (secondary stress) - "
+. (syllable break) = .
+ʲ = \j
+ʷ = \w
+̥  = \o
+̬  = \v
+ʰ = \h
+̚  = \L
 breath = HH
+ul = uw (Portuguese)
 
 [consonants]
 
@@ -81,6 +94,7 @@ l = l
 ʎ = lh
 ɭ = ll (Portuguese and European Spanish)
 m = m
+ɱ = mv
 n = n
 ɲ = nh
 ŋ = ng
@@ -89,17 +103,24 @@ p = p
 ɺ = rl
 r = rr (Spanish)
 ʁ = h (Portuguese)
+χ = hx (Portuguese)
 h = hh
+ɦ = hz
+ħ = hs (Galician)
 ɹ = J (Brazilian Portuguese)
-ɻ = J2
-ʃ = ch
+ɻ = J2 (Brazilian Portuguese)
+ʃ = sh *OR* ch
+ɕ = sh2 *OR* ch2
 ʒ = zh (Portuguese)
+ʑ = zh2 (Portuguese)
 θ = sx (European Spanish and European Portuguese)
 s = s
 z = z
-tʃ = tC
 t = t
+tʃ = tS *OR* tC
+tɕ = tS2 *OR* tC2
 t̪ = t2
 ʝ = jj (Spanish)
 x = j (Spanish)
 tɬ = tL (Mexican Spanish)
+ʔ = ?
