@@ -96,7 +96,7 @@ w̃ = wm
 ˈ (primary stress) = '
 ˌ (secondary stress) - "
 . (syllable break) = .
-  (no stress) = 
+  (no stress) = 0X
 
 ʲ (palatalized) = \j
 ʷ (labialized) = \w
