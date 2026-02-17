@@ -3,16 +3,46 @@ Eu (Kiyuhua) fiz conotação para cobrir os fonemas do português brasileiro, po
 A reclist é livre pra uso. Modificações na transcrição são totalmente permitidas. Eu permito redistribuição de versões modificadas, porém exijo créditos.
 
 Ao usar a transcrição, você deve deixar um espaço entre consoante e vogal.
-Exemplo 1: azul (português brasileiro): /a z uw/
-Exemplo 2: azul (espanhol latino-americano): /a s u l/
+Exemplo 1: azul (português brasileiro): /- a ' z uw -/
+Exemplo 2: azul (espanhol latino-americano): /- a ' s u l -/
+
+Porém, ao usar algum diacrítico que tenha uma barra invertida " \ ", grude ele na consoante/vogal, pois ele modifica a consoante/vogal.
+exemplo: minha (Português Brasileiro regional): /- ' m im n\j x -/ (ˈminʲɐ).
+No caso da linking mark (\-), use ela entre duas consoantes.
+exemplo: t͡s: /- t\-s -/
+Porém você pode adaptar isso, e usar do jeito que você achar melhor.
 
 Latin American Spanish:
-Yo (Kiyuhua) hice una connotación para cubrir los fonemas del portugués brasileño, portugués europeo, español latinoamericano y español europeo. Mi connotación se inspiró en ARPABET y X-SAMPA. Esta connotación se basa en dígrafos portugueses, similares a AFI/IPA, X-SAMPA, ARPABET, pronunciación aproximada y simplificación de algunos dígrafos presentes en mi connotación (como [zh], que se simplifica a "Z" en [dZ]), y nJokis para fonemas regionales del español.
+Yo (Kiyuhua) hice una connotación para cubrir los fonemas del portugués brasileño, portugués europeo, español latinoamericano y español europeo. Mi connotación se inspiró en ARPABET y X-SAMPA. Esta connotación se basa en dígrafos portugueses, similares a IPA, X-SAMPA, ARPABET, pronunciación aproximada y simplificación de algunos dígrafos presentes en mi connotación (como [zh], que se simplifica a "Z" en [dZ]), y nJokis para fonemas regionales del español.
 La ​​lista es de libre uso. Se permiten modificaciones en la transcripción. Permito la redistribución de versiones modificadas, pero exijo que se me dé crédito.
 
 Al usar la transcripción, debe dejar espacio entre la consonante y la vocal.
-Ejemplo 1: azul (portugués brasileño): /a z uw/
-Ejemplo 2: azul (español latinoamericano): /a s u l/
+Ejemplo 1: azul (portugués brasileño): /- a ' z uw -/
+Ejemplo 2: azul (español latinoamericano): /- a ' s u l -/
+
+Al utilizar la transcripción, debe dejar un espacio entre la consonante y la vocal.
+Ejemplo 1: azul (portugués brasileño): /- a ' z uw -/
+Ejemplo 2: azul (español latinoamericano): /- a ' s u l -/
+
+Sin embargo, al utilizar algún diacrítico que tenga una barra invertida " \ ", péguelo a la consonante/vocal, ya que modifica la consonante/vocal.
+Ejemplo: minha (portugués brasileño regional): /- ' m im n\j x -/ (ˈmĩnʲɐ).
+En el caso de la marca de enlace (\-), utilícela entre dos consonantes.
+Ejemplo: t͡s: /- t\-s -/
+Sin embargo, puedes adaptarlo y utilizarlo como mejor te parezca.
+
+English:
+I (Kiyuhua) created a notation system to cover the phonemes of Brazilian Portuguese, European Portuguese, Latin American Spanish, and European Spanish. My notation was inspired by ARPABET and X-SAMPA. This transcription was based on Portuguese digraphs, similarity to IPA, X-SAMPA, ARPABET, pronunciation approximation, and simplification of some digraphs present in the notation (such as [zh] being simplified to ‘Z’ in [dZ]), and nJokis for regional Spanish phonemes.
+The reclist is free to use. Modifications to the transcription are fully permitted. I allow redistribution of modified versions, but I require credits.
+
+When using the transcription, you must leave a space between consonants and vowels.
+Example 1: azul (Brazilian Portuguese): /- a ' z uw -/
+Example 2: azul (Latin American Spanish): /- a ' s u l -/
+
+However, when using a diacritic that has a backslash " \ ", stick it to the consonant/vowel, as it modifies the consonant/vowel.
+Example: minha (regional Brazilian Portuguese): /- ' m im n\j x -/ (ˈminʲɐ).
+In the case of the linking mark (\-), use it between two consonants.
+Example: t͡s: /- t\-s -/
+However, you can adapt this and use it however you see fit.
 
 [vowels]
 
@@ -20,19 +50,20 @@ a = a
 ɐ = x (Portuguese)
 ə = X (European Portuguese)
 e = e
-e̞ = ea
+e̞ = ea (Spanish)
 ø = eo (non-native Italian)
 ɛ = eh (Portuguese)
+œ = oe (Catalan)
 i = i
-ɪ = ie (Portuguese)
+ɪ = ie *OR* ii (Portuguese)
 ɨ = 1 (European Portuguese)
 y = io (non-native Italian)
 o = o
-o̞ = oa
+o̞ = oa (Spanish)
 ɔ = 6 *OR* c (Portuguese)
 u = u
-ʊ = uu (Portuguese)
-ɯ = M (Portuguese)
+ʊ = uo *OR* uu (Portuguese)
+ɯ = M (Portuguese allophone)
 
 [nasal vowels]
 (Portuguese)
@@ -50,8 +81,8 @@ u = u
 
 j = y
 w = w
-i̯ = Y
-u̯ = U
+i̯ = Y *OR* I
+u̯ = W *OR* U
 
 [nasal semivowels]
 (Portuguese)
@@ -61,29 +92,42 @@ w̃ = wm
 
 [extra]
 
-ː = : (long)
+ː  (long) = :
 ˈ (primary stress) = '
 ˌ (secondary stress) - "
 . (syllable break) = .
-ʲ = \j
-ʷ = \w
-̥  = \o
-̬  = \v
-ʰ = \h
-̚  = \L
+  (no stress) = 
+
+ʲ (palatalized) = \j
+ʷ (labialized) = \w
+̥  (voiceless) = \o
+̬  (voiced) = \v
+ʰ (aspirated) = \h
+ʱ (breathy) = = \hz
+̤  (breathy) = \hz2
+̚  (no audible release) = \L
+̯  (non-syllabic) \c
+̩  / ̍ (syllabic) = \A
+~ (nasalization) = \~ 
+‿ (linking mark) = \-
+
 breath = HH
-ul = uw (Portuguese)
+silence = 0
+pause = PS *OR* 9
+begin/end marker = -
+
+ul = uw (Brazilian Portuguese)
 
 [consonants]
 
 b = b
 β = bh (Spanish)
-ʋ = vw
+ʋ = vw (allophone)
 v = v (Portuguese)
 d = d
-d̪ = d2
+d̪ = d2 (allophone)
 dʒ = dZ
-dʑ = dZ2
+dʑ = dZ2 (allophone)
 ð = zx (Spanish and European Portuguese)
 f = f
 ɡ = g
@@ -91,35 +135,37 @@ f = f
 k = k
 l = l
 ɫ = lw (European Portuguese)
-ʎ = lh
-ɭ = ll (Portuguese and European Spanish)
+ʎ = lh (Portuguese)
+ɭ = ll (Catalan)
+ʟ = L (allophone)
 m = m
-ɱ = mv
+ɱ = mv (allophone)
 n = n
 ɲ = nh
-ŋ = ng
+ŋ = ng *OR* nk (allophone)
 p = p
 ɾ = r
-ɺ = rl
-r = rr (Spanish)
+ɺ = rl (allophone)
+r = rr (Spanish and regional Portuguese)
 ʁ = h (Portuguese)
 χ = hx (Portuguese)
-h = hh
-ɦ = hz
+h = hh (allophone)
+ɦ = hz (allophone)
 ħ = hs (Galician)
-ɹ = J (Brazilian Portuguese)
-ɻ = J2 (Brazilian Portuguese)
+ɹ = J (Brazilian Portuguese allophone)
+ɻ = J2 (Brazilian Portuguese allophone))
 ʃ = sh *OR* ch
-ɕ = sh2 *OR* ch2
+ɕ = sh2 *OR* ch2 (allophone)
 ʒ = zh (Portuguese)
-ʑ = zh2 (Portuguese)
-θ = sx (European Spanish and European Portuguese)
+ʑ = zh2 (Portuguese allophone)
+θ = sx (European Spanish and Galician)
 s = s
+s̪ = s2 (regional Spain and Colombia)
 z = z
 t = t
 tʃ = tS *OR* tC
-tɕ = tS2 *OR* tC2
-t̪ = t2
+tɕ = tS2 *OR* tC2 (allophone)
+t̪ = t2 (allophone)
 ʝ = jj (Spanish)
 x = j (Spanish)
 tɬ = tL (Mexican Spanish)
