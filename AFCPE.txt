@@ -7,7 +7,7 @@ Exemplo 1: azul (português brasileiro): /- a ' z uw -/
 Exemplo 2: azul (espanhol latino-americano): /- a ' s u l -/
 
 Porém, ao usar algum diacrítico que tenha uma barra invertida " \ ", grude ele na consoante/vogal, pois ele modifica a consoante/vogal.
-exemplo: minha (Português Brasileiro regional): /- ' m im n\j x -/ (ˈminʲɐ).
+exemplo: minha (Português Brasileiro regional): /- ' m im n\j x -/ (ˈmĩnʲɐ).
 No caso da linking mark (\-), use ela entre duas consoantes.
 exemplo: t͡s: /- t\-s -/
 Porém você pode adaptar isso, e usar do jeito que você achar melhor.
@@ -39,7 +39,7 @@ Example 1: azul (Brazilian Portuguese): /- a ' z uw -/
 Example 2: azul (Latin American Spanish): /- a ' s u l -/
 
 However, when using a diacritic that has a backslash " \ ", stick it to the consonant/vowel, as it modifies the consonant/vowel.
-Example: minha (regional Brazilian Portuguese): /- ' m im n\j x -/ (ˈminʲɐ).
+Example: minha (regional Brazilian Portuguese): /- ' m im n\j x -/ (ˈmĩnʲɐ).
 In the case of the linking mark (\-), use it between two consonants.
 Example: t͡s: /- t\-s -/
 However, you can adapt this and use it however you see fit.
