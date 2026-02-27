@@ -44,9 +44,13 @@ In the case of the linking mark (\-), use it between two consonants.
 Example: t͡s: /- t\-s -/
 However, you can adapt this and use it however you see fit.
 
+Sources: Wikipedia
+
 [vowels]
 
 a = a
+ɑ = A (Azorean and Paulista Portuguese)
+ɒ = A2 (Carioca Portuguese)
 ɐ = x (Portuguese)
 ə = X (European Portuguese)
 e = e
@@ -54,6 +58,7 @@ e̞ = ea (Spanish)
 ø = eo (non-native Italian)
 ɛ = eh (Portuguese)
 œ = oe (Catalan)
+æ = ae (Portuguese allophone)
 i = i
 ɪ = ie *OR* ii (Portuguese)
 ɨ = 1 (European Portuguese)
@@ -61,6 +66,7 @@ y = io (non-native Italian)
 o = o
 o̞ = oa (Spanish)
 ɔ = 6 *OR* c (Portuguese)
+ʌ = 6E *OR* cE (Greater Lisbon area Portuguese)
 u = u
 ʊ = uo *OR* uu (Portuguese)
 ɯ = M (Portuguese allophone)
@@ -80,7 +86,9 @@ u = u
 [semivowels]
 
 j = y
+ɥ  = yw
 w = w
+ɰ = wy
 i̯ = Y *OR* I
 u̯ = W *OR* U
 
@@ -88,7 +96,9 @@ u̯ = W *OR* U
 (Portuguese)
 
 j̃ = ym
+ɥ̃  = ywm (allophone)
 w̃ = wm
+ɰ̃  = wym (allophone)
 
 [extra]
 
@@ -109,6 +119,8 @@ w̃ = wm
 ̯  (non-syllabic) \c
 ̩  / ̍ (syllabic) = \A
 ~ (nasalization) = \~ 
+◌̢  (retroflex) = \J
+◌̣ (retroflex) = \J2
 ‿ (linking mark) = \-
 
 breath = HH
@@ -126,24 +138,31 @@ b = b
 v = v (Portuguese)
 d = d
 d̪ = d2 (allophone)
+ɖ = dd (Brazilian Portuguese allophone before /ɻ/)
+dz = dz
 dʒ = dZ
 dʑ = dZ2 (allophone)
+ɟ  = qh (allophone)
 ð = zx (Spanish and European Portuguese)
 f = f
 ɡ = g
+ɡʷ = gw
 ɣ = gz (European Portuguese and Spanish)
 k = k
+kʷ = kw (Portuguese)
 l = l
 ɫ = lw (European Portuguese)
 ʎ = lh (Portuguese)
-ɭ = ll (Catalan)
+ɭ = ll (Catalan and Brazilian Portuguese allophone before /ɻ/)
 ʟ = L (allophone)
 m = m
 ɱ = mv (allophone)
 n = n
 ɲ = nh
 ŋ = ng *OR* nk (allophone)
+ɳ = nn (Brazilian Portuguese allophone before /ɻ/)
 p = p
+ɸ  =  ph (allophone)
 ɾ = r
 ɺ = rl (allophone)
 r = rr (Spanish and regional Portuguese)
@@ -153,20 +172,27 @@ h = hh (allophone)
 ɦ = hz (allophone)
 ħ = hs (Galician)
 ɹ = J (Brazilian Portuguese allophone)
-ɻ = J2 (Brazilian Portuguese allophone))
+ɻ = J2 *OR* JJ (Brazilian Portuguese allophone)
 ʃ = sh *OR* ch
 ɕ = sh2 *OR* ch2 (allophone)
 ʒ = zh (Portuguese)
 ʑ = zh2 (Portuguese allophone)
+ʐ = zz (Brazilian Portuguese allophone before /ɻ/)
 θ = sx (European Spanish and Galician)
 s = s
 s̪ = s2 (regional Spain and Colombia)
+ʂ = ss (Brazilian Portuguese allophone before /ɻ/)
 z = z
 t = t
+t̪ = t2 (allophone)
+ʈ = tt (Brazilian Portuguese allophone before /ɻ/)
+ts = ts
 tʃ = tS *OR* tC
 tɕ = tS2 *OR* tC2 (allophone)
-t̪ = t2 (allophone)
+c = ch (allophone)
+ç = cS (allophone)
 ʝ = jj (Spanish)
-x = j (Spanish)
+ɟʝ = qJ
+x = j  (Spanish)
 tɬ = tL (Mexican Spanish)
 ʔ = ?
